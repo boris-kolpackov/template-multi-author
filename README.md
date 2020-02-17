@@ -1,5 +1,4 @@
 # template-multi-author
-License/Copyright setup template for a multi-author project
 
 License/Copyright setup template for a project with multiple, changing
 authors. For example, a project that accepts external constibutions.
@@ -10,9 +9,9 @@ authors. For example, a project that accepts external constibutions.
 2. The copyright notice (whether in `LICENSE` or in `COPYRIGHT`) should be a
    a single line in the form:
 
-```
-Copyright (c) <year> the <project> authors (see the AUTHORS file).
-```
+   ```
+   Copyright (c) <year> the <project> authors (see the AUTHORS file).
+   ```
 
    This is important to prevent license mis-detection by GitHub, etc.
 
