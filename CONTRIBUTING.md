@@ -7,6 +7,6 @@ intellectual property that you create) and that the code being contributed is
 your original creation.
 
 The revision history in the version control system is the primary source of
-authorship information for copyright purposes. If, however, you would like to
-be noted explicitly, please include the appropriate change to the `AUTHORS`
-file with your contribution.
+authorship information for copyright purposes. If, however, you would like
+to also be noted explicitly, please include the appropriate change to the
+`AUTHORS` file along with your contribution.
