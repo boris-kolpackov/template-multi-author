@@ -15,6 +15,6 @@ authors. For example, a project that accepts external constibutions.
 
    This is important to prevent license mis-detection by GitHub, etc.
 
-3. See the `AUTHORS` file for the suggested content.
+3. See the `AUTHORS` file for the suggested content (replace `<project>`).
 
 4. See the `CONTRIBUTORS.md` file for the suggested content.
