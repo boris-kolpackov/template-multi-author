@@ -6,8 +6,8 @@ authors. For example, a project that accepts external constibutions.
 1. Copyright notice(s) are in `LICENSE` if possible/desirable (e.g., MIT) or
    in `COPYRIGHT` otherwise.
 
-2. The copyright notice (whether in `LICENSE` or in `COPYRIGHT`) should be a
-   single line in the form:
+2. The top copyright notice (whether in `LICENSE` or in `COPYRIGHT`) should be
+   a single line in the form:
 
    ```
    Copyright (c) <year> the <project> authors (see the AUTHORS file).
